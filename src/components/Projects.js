@@ -21,12 +21,12 @@ const projectData = [
         github: 'https://github.com/vivekbajpai82'
     },
     {
-        date: 'Jul 2023',
-        title: 'TextUtils',
-        stack: 'React • JavaScript • HTML • CSS',
-        description: 'Web-based text utility tool for multiple text transformations including case conversion and text analysis.',
-        points: ['Real-time text analysis with instant feedback', 'Remove extra spaces, case conversion, word counting', 'Optimized for large text inputs without lag', 'Interactive interface for seamless text manipulation'],
-        liveLink: 'https://vivekbajpai82.github.io/',
+        date: 'Aug 2025',
+        title: 'Social Media Content Analyzer',
+        stack: 'HTML • CSS • JavaScript',
+        description: 'Advanced sentiment analysis tool that processes social media content to extract insights, trends and public opinion.',
+        points: ['Multi-platform content scraping with sentiment analysis and emotion detection', 'Trend identification and hashtag performance analytics with visual dashboards', 'Real-time monitoring with automated alerts for brand mentions and keywords', 'Comprehensive reporting with charts, graphs and exportable analytics data'],
+        liveLink: 'https://social-content-analyzer.netlify.app/',
         github: 'https://github.com/vivekbajpai82'
     },
     {
@@ -73,12 +73,12 @@ const projectData = [
         github: 'https://github.com/vivekbajpai82'
     },
     {
-        date: 'Aug 2025',
-        title: 'Social Media Content Analyzer',
-        stack: 'HTML • CSS • JavaScript',
-        description: 'Advanced sentiment analysis tool that processes social media content to extract insights, trends and public opinion.',
-        points: ['Multi-platform content scraping with sentiment analysis and emotion detection', 'Trend identification and hashtag performance analytics with visual dashboards', 'Real-time monitoring with automated alerts for brand mentions and keywords', 'Comprehensive reporting with charts, graphs and exportable analytics data'],
-        liveLink: 'https://social-content-analyzer.netlify.app/',
+        date: 'Jul 2023',
+        title: 'TextUtils',
+        stack: 'React • JavaScript • HTML • CSS',
+        description: 'Web-based text utility tool for multiple text transformations including case conversion and text analysis.',
+        points: ['Real-time text analysis with instant feedback', 'Remove extra spaces, case conversion, word counting', 'Optimized for large text inputs without lag', 'Interactive interface for seamless text manipulation'],
+        liveLink: 'https://vivekbajpai82.github.io/',
         github: 'https://github.com/vivekbajpai82'
     },
     {
@@ -122,7 +122,7 @@ const Projects = () => {
                 className="projects-grid"
                 initial="hidden"
                 whileInView="visible"
-                viewport={{ once: true, amount: 0.1 }} 
+                viewport={{ once: true, amount: 0.005 }} 
                 transition={{ staggerChildren: 0.2 }} 
             >
                 {projectData.map((project, index) => (
