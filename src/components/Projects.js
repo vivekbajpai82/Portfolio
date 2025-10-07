@@ -78,7 +78,7 @@ const projectData = [
         stack: 'React • JavaScript • HTML • CSS',
         description: 'Web-based text utility tool for multiple text transformations including case conversion and text analysis.',
         points: ['Real-time text analysis with instant feedback', 'Remove extra spaces, case conversion, word counting', 'Optimized for large text inputs without lag', 'Interactive interface for seamless text manipulation'],
-        liveLink: 'https://vivekbajpai82.github.io/',
+        liveLink: 'https://vivekbajpai82.github.io/Text-Utils/',
         github: 'https://github.com/vivekbajpai82'
     },
     {
