@@ -1,58 +1,68 @@
-# Vivek Bajpai - Personal Portfolio
+# 🌐 Vivek Bajpai - Personal Portfolio
 
-![Portfolio Screenshot]("C:\Users\ashut\OneDrive\Pictures\Screenshots\Screenshot 2025-10-07 184423.png") 
-This is the official repository for my personal portfolio website, built with React. This project started as a static HTML, CSS, and JavaScript site and has been completely migrated to a dynamic, component-based React application.
+![Portfolio Screenshot](public/screenshot.png)
 
-**Live Demo Link:** [https://your-live-website-url.com](https://your-live-website-url.com)
+This is the official repository for my **personal portfolio website**, built using **React**.  
+The project initially started as a static HTML, CSS, and JavaScript website, and has now been **migrated into a modern, dynamic, component-based React application**.
+
+---
+
+## 🔗 Live Demo
+
+👉 **[View Live Website](https://your-live-website-url.com)**  
+*(Replace this link with your actual live site URL once deployed)*
+
 ---
 
 ## ✨ Features
 
-* **Modern & Responsive Design:** Fully responsive layout that looks great on all devices, from mobile phones to desktops.
-* **Dynamic Animations:** Smooth and engaging animations built with **Framer Motion**, including staggered effects for lists and on-scroll reveals.
-* **Component-Based Architecture:** Built with React for a modular, scalable, and maintainable codebase.
-* **Functional Contact Form:** An interactive contact form integrated with **EmailJS** that allows visitors to send emails directly from the website without needing a backend.
+- **Modern & Responsive Design:**  
+  Works seamlessly on all screen sizes — mobile, tablet, and desktop.
+
+- **Dynamic Animations:**  
+  Built using **Framer Motion** for smooth and visually appealing transitions.
+
+- **Component-Based Architecture:**  
+  Modular and scalable React components for easier maintenance and development.
+
+- **Functional Contact Form:**  
+  Integrated with **EmailJS** — allowing visitors to send messages directly from the site without needing a backend.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, HTML5, CSS3
-* **Animations:** Framer Motion
-* **Email Service:** EmailJS (for contact form)
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | React, HTML5, CSS3 |
+| **Animations** | Framer Motion |
+| **Email Service** | EmailJS |
 
 ---
 
 ## 🚀 Getting Started
+3. Install Dependencies
+Follow these steps to run the project locally:
 
-To run this project locally on your machine, follow these steps:
-
-**1. Clone the repository:**
+### 1. Clone the Repository
 ```bash
-git clone [https://github.com/vivekbajpai82/react-portfolio.git](https://github.com/vivekbajpai82/react-portfolio.git)
+git clone https://github.com/vivekbajpai82/react-portfolio.git
 
-**2. Navigate to the project directory:
-
-Bash
-
+### 2. Navigate to the Project Directory
 cd react-portfolio
-3. Install dependencies:
 
-Bash
-
+###3. Install Dependencies
 npm install
-4. Run the development server:
 
-Bash
-
+###4. Start the Development Server
 npm start
-The application will be available at http://localhost:3000.
+
+The app will run locally at 👉 http://localhost:3000
+
+
 
 👤 Author
 Vivek Bajpai
-
-GitHub: @vivekbajpai82
-
-LinkedIn: Vivek Bajpai
-
-LeetCode: @vb_2201640100328
+💻 GitHub: @vivekbajpai82
+💼 LinkedIn: Vivek Bajpai
+🧠 LeetCode: @vb_2201640100328
