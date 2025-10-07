@@ -1,7 +1,5 @@
 # 🌐 Vivek Bajpai - Personal Portfolio
 
-![Portfolio Screenshot](public/screenshot.png)
-
 This is the official repository for my **personal portfolio website**, built using **React**.  
 The project initially started as a static HTML, CSS, and JavaScript website, and has now been **migrated into a modern, dynamic, component-based React application**.
 
