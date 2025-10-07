@@ -1,6 +1,6 @@
 # 🌐 Vivek Bajpai - Personal Portfolio
 
-![Portfolio Screenshot](public/screenshot.png)
+![Portfolio Screenshot](assets/screenshot.png)
 
 This is the official repository for my **personal portfolio website**, built using **React**.  
 The project initially started as a static HTML, CSS, and JavaScript website, and has now been **migrated into a modern, dynamic, component-based React application**.
@@ -9,7 +9,7 @@ The project initially started as a static HTML, CSS, and JavaScript website, and
 
 ## 🔗 Live Demo
 
-👉 **[View Live Website](https://your-live-website-url.com)**  
+👉 **[View Live Website](https://vivekbajpaiportfolio.netlify.app/)**  
 *(Replace this link with your actual live site URL once deployed)*
 
 ---
