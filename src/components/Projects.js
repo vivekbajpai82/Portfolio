@@ -35,6 +35,7 @@ const projectData = [
         stack: 'Python • Scikit-learn • NLTK • Streamlit',
         description: 'Machine learning model to classify SMS messages as spam or legitimate using natural language processing techniques.',
         points: ['Implemented Naive Bayes and SVM algorithms for text classification', 'Used TF-IDF vectorization for feature extraction from text data', 'Built interactive web interface using Streamlit for real-time predictions', 'Achieved 95%+ accuracy on test dataset with comprehensive preprocessing'],
+        liveLink: 'https://spam-message-detector-p71g.onrender.com/',
         github: 'https://github.com/vivekbajpai82/Spam_Message_Detector'
     },
     {
@@ -43,6 +44,7 @@ const projectData = [
         stack: 'Python • Pandas • Regression • Flask',
         description: 'Predictive model to estimate car prices based on various features like brand, model, year, mileage and engine specifications.',
         points: ['Applied linear and polynomial regression techniques for price prediction', 'Performed extensive data cleaning and feature engineering on car dataset', 'Created REST API using Flask for model deployment and integration', 'Implemented cross-validation and hyperparameter tuning for optimal performance'],
+        liveLink: 'https://car-price-predictor-lvnl.onrender.com',
         github: 'https://github.com/vivekbajpai82/Car_Price_Predictor'
     },
     {
