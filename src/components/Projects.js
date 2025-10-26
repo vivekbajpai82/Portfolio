@@ -22,12 +22,16 @@ const projectData = [
     },
     {
         date: 'Aug 2025',
-        title: 'Social Media Content Analyzer',
-        stack: 'HTML • CSS • JavaScript',
-        description: 'Advanced sentiment analysis tool that processes social media content to extract insights, trends and public opinion.',
-        points: ['Multi-platform content scraping with sentiment analysis and emotion detection', 'Trend identification and hashtag performance analytics with visual dashboards', 'Real-time monitoring with automated alerts for brand mentions and keywords', 'Comprehensive reporting with charts, graphs and exportable analytics data'],
+        title: 'AI-Powered Content Analyzer',
+        stack: 'React • Python • Flask • Google Gemini API • Tesseract OCR',
+        description: 'An intelligent content analysis tool that accepts text, images (via OCR), and PDFs. It provides detailed readability scores, social media metrics, and AI-powered suggestions from the Google Gemini API to optimize posts for engagement.',
+        points: [
+        'Extracts text from uploaded images using Tesseract (OCR) and from PDF documents using PyPDF2.',
+        'Integrates Google Gemini API to generate actionable, AI-powered suggestions for improving content engagement.',
+        'Performs in-depth analysis of text, including readability scores (Flesch-Kincaid), social metrics (hashtags, CTAs, emojis), and reading time.',
+        'Provides platform-specific suitability checks for Twitter, LinkedIn, Instagram, and Facebook to ensure content fits character limits.'],
         liveLink: 'https://social-content-analyzer.netlify.app/',
-        github: 'https://github.com/vivekbajpai82'
+        github: 'https://github.com/vivekbajpai82' 
     },
     {
         date: 'Jan 2024',
