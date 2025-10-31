@@ -14,7 +14,7 @@ const projectData = [
     {
         date: 'Dec 2023',
         title: 'Pharma Care',
-        stack: 'React • Node • Express • MongoDB • JWT',
+        stack: 'React • Node • Express • MongoDB • JWT • Cloudinary • jsPDF',
         description: 'Web application to convert handwritten prescriptions into clean, typed format for better readability by pharmacists.',
         points: ['Developed a full-stack MERN application to digitize handwritten prescriptions, directly improving readability and reducing errors for pharmacists', ' Implemented a secure JWT-based authentication system with a predefined medicine database, reducing manual typing errors', ' Designed and built a responsive, interactive User Interface with robust form validation to streamline prescription creation for doctors',' Enhanced pharmacist workflow by delivering clean, typed prescriptions, minimizing misinterpretation and boosting operational efficiency.',' Ensured scalable backend architecture with RESTful APIs, enabling smooth integration and future system expansion.'],
         liveLink: 'https://pharma-caree.netlify.app/',
@@ -22,7 +22,7 @@ const projectData = [
     },
     {
         date: 'Aug 2025',
-        title: 'AI-Powered Content Analyzer',
+        title: 'Social Media Content Analyzer',
         stack: 'React • Python • Flask • Google Gemini API • Tesseract OCR',
         description: 'An intelligent content analysis tool that accepts text, images (via OCR), and PDFs. It provides detailed readability scores, social media metrics, and AI-powered suggestions from the Google Gemini API to optimize posts for engagement.',
         points: [
