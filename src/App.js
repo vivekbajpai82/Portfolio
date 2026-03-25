@@ -18,7 +18,7 @@ import ScrollProgress from './components/ScrollProgress';
 function App() {
   return (
     <>
-      {/* ✨ Yaha Add Karo */}
+      
       <CustomCursor />
       <ScrollProgress />
       

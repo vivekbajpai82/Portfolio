@@ -3,7 +3,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 const educationData = [
-    { year: '2022 - 2026', degree: 'Bachelor of Technology', major: 'Computer Science and Engineering', institution: 'Pranveer Singh Institute Of Technology, Kanpur', percentage: '74.8%' },
+    { year: '2022 - 2026', degree: 'Bachelor of Technology', major: 'Computer Science and Engineering', institution: 'Pranveer Singh Institute Of Technology, Kanpur', percentage: '75.8%' },
     { year: '2020 - 2022', degree: 'Intermediate', major: 'CBSE Science', institution: 'Bakshi Memorial Public School, Lalganj', percentage: '75.6%' },
     { year: '2019 - 2020', degree: 'High School', major: 'CBSE', institution: 'Bakshi Memorial Public School, Lalganj', percentage: '76.4%' },
 ];
